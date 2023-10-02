@@ -6,9 +6,7 @@
 
 - [Overview](#overview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Results](#results)
 
 ## Overview
 
@@ -23,4 +21,11 @@ List the steps required to install and set up your project. Include any prerequi
 1. Clone this repository: `git clone https://github.com/poolkit/Credit-Risk-Modelling.git`
 2. Navigate to the project directory: `cd credit-risk-modeling`
 3. Install the required dependencies: `pip install -r requirements.txt`
+```
+
+## Results
+Run the streamlit app.
+
+```shell
+streamlit run app.py
 ```
