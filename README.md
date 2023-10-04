@@ -13,7 +13,7 @@
 Credit risk modeling is a quantitative analysis technique used by financial institutions, such as banks and credit card companies, to assess and predict the likelihood of borrowers defaulting on their loans or credit obligations. The primary goal of credit risk modeling is to make informed lending decisions and manage the risk associated with extending credit to individuals, businesses, or other entities.
 ![](https://powerslides.com/wp-content/uploads/2021/11/Credit-Risk-Modelling-1.png)
 
-## Probability of Dispersing Loan
+### Probability of Dispersing Loan
 Although we will be using the ROC-AUC curve (as asked in the Kaggle competition) to determine the best threshold, it is not always the optimal way. In the lending business, there are many factors that we have to account for before deciding the threshold to disperse loans. For example,<br>
 1. **The Risk Reward should always be kept in mind**: The profit banks get from lending is the interest which is comparatively lesser than what they lend. So if a person defaults, it directly impacts a bank's profitability.
 2. **What type of bank are you?**: Not all banks are the same. Some of them are highly risk-taking, some play safe, and some are in-between.
